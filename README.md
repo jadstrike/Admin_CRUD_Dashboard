@@ -5,7 +5,8 @@ LMS Dashboard built with React as frontend and Java Spring Boot as a backend. Ba
 Thank you if you are here <3
 
 <p align="center">
-<img width="400"  src="public/demo.gif" alt="demo">
+  <a href="https://youtu.be/xjxP0D2rfk0">Demo YouTube Video</a>
+  <a href="https://lms-dashboard-ten.vercel.app/">Live Server but can only function when the server is on. Can donate for the server cost XD</a>
   <a href="https://vitejs.dev" target="_blank" rel="noopener noreferrer">
     <img width="180" src="https://vitejs.dev/logo.svg" alt="Vite logo">
   </a>
