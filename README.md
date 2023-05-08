@@ -1,4 +1,4 @@
-# ADmin_AUTH_CRUD_Dashboard
+# Admin_AUTH_CRUD_Dashboard
 
 Admin crud Dashboard built with React as frontend using ant design and other UI libraries. Backend is still only on loacl server so this can't be used as a product for now but can be viewed how this project is built.
 
