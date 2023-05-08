@@ -7,9 +7,8 @@ Thank you if you are here <3
 <p align="center">
   <a href="https://youtu.be/xjxP0D2rfk0">Demo YouTube Video</a></br>
   
-  <a href="https://lms-dashboard-ten.vercel.app/">Live Server but can only function when the server is on.</a>
-  </br>
-  <span>Can donate for the server cost XD</span>
+  <a href="https://lms-dashboard-ten.vercel.app/">Live Server but can only function when the server is on.</a></br>
+  <span>Can donate for the server cost XD</span></br>
   <a href="https://vitejs.dev" target="_blank" rel="noopener noreferrer">
     <img width="180" src="https://vitejs.dev/logo.svg" alt="Vite logo">
   </a>
