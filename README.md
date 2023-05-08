@@ -4,7 +4,6 @@ LMS Dashboard built with React as frontend and Java Spring Boot as a backend. Ba
 
 Thank you if you are here <3
 
-
 <p align="center">
 <img width="400"  src="public/demo.gif" alt="demo">
   <a href="https://vitejs.dev" target="_blank" rel="noopener noreferrer">
